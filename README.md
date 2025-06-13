@@ -100,4 +100,4 @@ steps4：测试：`docker exec -it wxread python /app/main.py`
 | `pc` | `"xxxxxxxxxxxxxxxxxxxxxxxx"` | 设备标识符或客户端标识符，用于标识用户的设备或客户端。 |
 | `s` | `"fadcb9de"` | 校验和或哈希值，用于验证请求数据的完整性。 |
 
-
+> Update (1)
